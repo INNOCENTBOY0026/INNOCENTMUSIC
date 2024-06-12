@@ -14,32 +14,32 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "17763538",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "babad31b4b434fc53d8bd13370c556c3",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "6894743901:AAFlsaTrSwxaFpYMVXeXpkbr3NR_Nimoepw",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "value": "mongodb+srv://nakuldkdhacker:nakuldkdhacker$100@cluster0.45znzoj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "",
+        "value": "6961211249",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from @STRINGSEASO_NBOT on Telegram.",
-        "value": "",
+        "value": "BAE2zRIAMybEw_Il_CaUuG8oO92oay0nLn9CtFNiv5-zgr7tOIk-LOsnO_H99TrjFeE4AMLjPok1n00Tr5goEpu-ZzRoDFTq39xQnME80-U4879chfuYnXvv8sWCMsUZz6KAWZY3c5E1E67eb7Wdtr0VUrBcyvDb6IA0bNSdvPybJflo-45qpBgLRLRNONe6CLsoRMrOg7kHjD1xT19KMDNu8uYJLq_doN5valFskZXDHYslgh4t_kotqpb7SciYNlpkQyHOMTeVAE4FNgszL5R4ClwBge0kHzqzHoBC6ZAfUj6KcqPKu1l4K5AUoiDdXHkQpptIDrCl-dhSamahafg0-3v9awAAAAGX51AEAA",
         "required": true
       },
       "HEROKU_API_KEY": {
@@ -49,12 +49,12 @@
       },
       "HEROKU_APP_NAME": {
         "description": "Your heroku app name",
-        "value": "",
+        "value": "innocentmusicrobot",
         "required": false
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "",
+        "value": "-1002108743436",
         "required": true
       }
     },
